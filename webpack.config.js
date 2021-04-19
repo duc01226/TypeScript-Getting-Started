@@ -1,3 +1,4 @@
+/** @type {import('webpack').Configuration */
 module.exports = {
   entry: './app/app.ts',
   devtool: 'inline-source-map',
