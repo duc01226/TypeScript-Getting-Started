@@ -61,8 +61,5 @@
     "watch": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-  },
-  "files": [
-    "app/app.ts"
-  ]
+  }
 }
