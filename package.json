@@ -9,6 +9,9 @@
   "author": "Brice Wilson",
   "license": "ISC",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.25.0",
     "ts-loader": "8.0.17",
     "typescript": "4.2.2",
     "webpack": "5.22.0",
